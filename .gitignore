@@ -2,5 +2,6 @@
 *.nii.gz
 *.nii
 *.csv
+data
 
 __pycache__
