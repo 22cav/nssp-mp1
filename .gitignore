@@ -2,6 +2,7 @@
 *.nii.gz
 *.nii
 *.csv
-data
+dataset
 
 __pycache__
+.ipynb_checkpoints
